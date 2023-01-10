@@ -1,5 +1,28 @@
 [
   {
+    "id": 6246407,
+    "slug": "politie-breekt-door-barricades-bij-bruinkooldorp-lutzerath",
+    "type": "video",
+    "title": "Politie breekt door barricades bij 'bruinkooldorp' Lützerath",
+    "subtitle": "Video",
+    "published_at": "2023-01-10T15:28:11+01:00",
+    "updated_at": "2023-01-10T15:28:12+01:00",
+    "media_id": "6rxxcarantav",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6246407/politie-breekt-door-barricades-bij-bruinkooldorp-lutzerath.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246406,
     "slug": "zeekoeien-in-burgers-zoo-zwemmen-rond-met-camera",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Coinbase is het volgende cryptoplatform dat veel banen schrapt",
     "subtitle": null,
     "published_at": "2023-01-10T14:53:20+01:00",
-    "updated_at": "2023-01-10T14:53:21+01:00",
+    "updated_at": "2023-01-10T15:38:40+01:00",
     "media_id": "dndxrcnay7q3",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Politie haalt barricades weg bij Duits 'bruinkooldorp' dat al twee jaar wordt bezet",
     "subtitle": null,
     "published_at": "2023-01-10T13:29:01+01:00",
-    "updated_at": "2023-01-10T13:29:02+01:00",
+    "updated_at": "2023-01-10T15:28:35+01:00",
     "media_id": "8jcxqp1abuak",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6246377/ellen-degeneres-laat-modderstroom-zien-naast-huis-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246371,
-    "slug": "minder-cocaine-gevonden-in-rotterdamse-haven-recordhoeveelheid-in-antwerpen",
-    "type": "article",
-    "title": "Minder cocaïne gevonden in Rotterdamse haven, recordhoeveelheid in Antwerpen",
-    "subtitle": null,
-    "published_at": "2023-01-10T11:44:23+01:00",
-    "updated_at": "2023-01-10T11:59:43+01:00",
-    "media_id": "uyjx6czagzs8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6246371/minder-cocaine-gevonden-in-rotterdamse-haven-recordhoeveelheid-in-antwerpen.html",
     "open_new_window": false,
     "partner": null
   }
