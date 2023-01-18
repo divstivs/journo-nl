@@ -1,12 +1,35 @@
 [
   {
+    "id": 6247561,
+    "slug": "inter-wint-afgetekend-van-stadgenoot-ac-milan-en-verovert-italiaanse-supercup",
+    "type": "article",
+    "title": "Inter wint afgetekend van stadgenoot AC Milan en verovert Italiaanse supercup",
+    "subtitle": null,
+    "published_at": "2023-01-18T22:03:27+01:00",
+    "updated_at": "2023-01-18T22:05:39+01:00",
+    "media_id": "ky4xg3qay9s0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6247561/inter-wint-afgetekend-van-stadgenoot-ac-milan-en-verovert-italiaanse-supercup.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247559,
     "slug": "kim-kardashian-koopt-op-veiling-juweel-van-prinses-diana",
     "type": "article",
     "title": "Kim Kardashian koopt op veiling juweel van prinses Diana",
     "subtitle": null,
     "published_at": "2023-01-18T21:46:02+01:00",
-    "updated_at": "2023-01-18T21:46:03+01:00",
+    "updated_at": "2023-01-18T21:54:15+01:00",
     "media_id": "ujfxvpaaon7y",
     "duration": null,
     "canonical_section": {
@@ -19,29 +42,6 @@
       "partner": null
     },
     "url": "/achterklap/6247559/kim-kardashian-koopt-op-veiling-juweel-van-prinses-diana.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247558,
-    "slug": "producent-bohemian-rhapsody-film-werkt-aan-film-over-michael-jackson",
-    "type": "article",
-    "title": "Producent Bohemian Rhapsody-film werkt aan film over Michael Jackson",
-    "subtitle": null,
-    "published_at": "2023-01-18T21:38:14+01:00",
-    "updated_at": "2023-01-18T21:46:55+01:00",
-    "media_id": "syoxfi8ao5f5",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6247558/producent-bohemian-rhapsody-film-werkt-aan-film-over-michael-jackson.html",
     "open_new_window": false,
     "partner": null
   },
