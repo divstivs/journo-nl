@@ -1,12 +1,35 @@
 [
   {
-    "id": 6250178,
-    "slug": "giro-7244-haalt-al-12-miljoen-euro-op-na-aardbeving-in-turkije-en-syrie",
+    "id": 6250179,
+    "slug": "turkije-en-syrie-blijven-zoeken-naar-overlevenden-na-zware-aardbeving",
     "type": "article",
-    "title": "Giro 7244 haalt al 1,2 miljoen euro op na aardbeving in Turkije en Syrië",
+    "title": "Turkije en Syrië blijven zoeken naar overlevenden na zware aardbeving",
+    "subtitle": "Liveblog",
+    "published_at": "2023-02-07T07:43:47+01:00",
+    "updated_at": "2023-02-07T07:44:58+01:00",
+    "media_id": "4snx1egabdub",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779210,
+      "slug": "aardbeving-syrie-en-turkije",
+      "type": "files",
+      "name": "Aardbeving Syrië en Turkije",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/aardbeving-syrie-en-turkije/6250179/turkije-en-syrie-blijven-zoeken-naar-overlevenden-na-zware-aardbeving.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250178,
+    "slug": "giro-7244-haalt-12-miljoen-euro-op-na-aardbeving-in-turkije-en-syrie",
+    "type": "article",
+    "title": "Giro 7244 haalt 1,2 miljoen euro op na aardbeving in Turkije en Syrië",
     "subtitle": null,
     "published_at": "2023-02-07T07:36:38+01:00",
-    "updated_at": "2023-02-07T07:36:39+01:00",
+    "updated_at": "2023-02-07T07:40:34+01:00",
     "media_id": "g0cxk7yagyq4",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/aardbeving-syrie-en-turkije/6250178/giro-7244-haalt-al-12-miljoen-euro-op-na-aardbeving-in-turkije-en-syrie.html",
+    "url": "/aardbeving-syrie-en-turkije/6250178/giro-7244-haalt-12-miljoen-euro-op-na-aardbeving-in-turkije-en-syrie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,8 +305,8 @@
     "title": "Cao-conflict in streekvervoer zit muurvast: 'Het geld is er gewoon niet'",
     "subtitle": null,
     "published_at": "2023-02-07T05:03:29+01:00",
-    "updated_at": "2023-02-07T05:08:45+01:00",
-    "media_id": "vk0x90ka0qvk",
+    "updated_at": "2023-02-07T07:46:33+01:00",
+    "media_id": "lagxfd8a2so5",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -351,7 +374,7 @@
     "title": "Tijdens werkbezoek grapt de koning, schrijft Máxima en observeert Amalia",
     "subtitle": null,
     "published_at": "2023-02-07T01:11:31+01:00",
-    "updated_at": "2023-02-07T06:40:16+01:00",
+    "updated_at": "2023-02-07T07:47:15+01:00",
     "media_id": "uh0x7zca77l6",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Dodental aardbevingen Turkije en Syrië stijgt naar ruim 3.800",
     "subtitle": null,
     "published_at": "2023-02-07T01:04:02+01:00",
-    "updated_at": "2023-02-07T07:35:14+01:00",
+    "updated_at": "2023-02-07T07:40:57+01:00",
     "media_id": "fs2xwcfa13ni",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/aardbeving-syrie-en-turkije/6250166/inwoners-den-haag-brengen-massaal-kleding-voor-slachtoffers-aardbeving.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250165,
-    "slug": "moederbedrijf-van-google-lanceert-testversie-chatbot-bard-concurrent-chatgpt",
-    "type": "article",
-    "title": "Moederbedrijf van Google lanceert testversie chatbot Bard, concurrent ChatGPT",
-    "subtitle": null,
-    "published_at": "2023-02-06T22:16:04+01:00",
-    "updated_at": "2023-02-06T22:19:07+01:00",
-    "media_id": "csqx3wbaa0xj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6250165/moederbedrijf-van-google-lanceert-testversie-chatbot-bard-concurrent-chatgpt.html",
     "open_new_window": false,
     "partner": null
   }
