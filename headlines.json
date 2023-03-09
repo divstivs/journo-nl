@@ -1,28 +1,5 @@
 [
   {
-    "id": 6254457,
-    "slug": "vanaf-vandaag-kan-iedereen-meedenken-over-het-nederlandse-klimaatbeleid",
-    "type": "article",
-    "title": "Vanaf vandaag kan iedereen meedenken over het Nederlandse klimaatbeleid",
-    "subtitle": null,
-    "published_at": "2023-03-09T20:07:59+01:00",
-    "updated_at": "2023-03-09T20:08:00+01:00",
-    "media_id": "4hux2i1aoacu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6254457/vanaf-vandaag-kan-iedereen-meedenken-over-het-nederlandse-klimaatbeleid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6254643,
     "slug": "vreugde-overheerst-na-wonderlijke-dag-jumbo-visma-niet-alles-liep-volgens-plan",
     "type": "article",
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/wielrennen/6254623/supertalent-kooij-maakt-feestdag-jumbo-visma-compleet-met-zege-in-parijs-nice.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254619,
+    "slug": "minister-weerwind-wil-staking-rechters-voorkomen-met-loonsverhoging",
+    "type": "article",
+    "title": "Minister Weerwind wil staking rechters voorkomen met loonsverhoging",
+    "subtitle": null,
+    "published_at": "2023-03-09T17:01:47+01:00",
+    "updated_at": "2023-03-09T19:25:50+01:00",
+    "media_id": "r10xs0bam479",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6254619/minister-weerwind-wil-staking-rechters-voorkomen-met-loonsverhoging.html",
     "open_new_window": false,
     "partner": null
   }
