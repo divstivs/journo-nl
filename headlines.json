@@ -1,12 +1,35 @@
 [
   {
+    "id": 6252775,
+    "slug": "kabinet-schrapt-per-direct-laatste-coronaregels",
+    "type": "article",
+    "title": "Kabinet schrapt per direct laatste coronaregels",
+    "subtitle": null,
+    "published_at": "2023-03-10T14:42:56+01:00",
+    "updated_at": "2023-03-10T14:43:00+01:00",
+    "media_id": "s54xuyva5ot7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6252775/kabinet-schrapt-per-direct-laatste-coronaregels.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254777,
     "slug": "skiester-shiffrin-evenaart-record-stenmark-met-86e-overwinning-in-wereldbeker",
     "type": "article",
     "title": "Skiester Shiffrin evenaart record Stenmark met 86e overwinning in wereldbeker",
     "subtitle": null,
     "published_at": "2023-03-10T14:29:51+01:00",
-    "updated_at": "2023-03-10T14:29:52+01:00",
+    "updated_at": "2023-03-10T14:41:32+01:00",
     "media_id": "cl6xk4fad2os",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Kickbokser Tavares is terug van dopingschorsing en strijdt om gevecht met Plazibat",
     "subtitle": null,
     "published_at": "2023-03-10T14:11:39+01:00",
-    "updated_at": "2023-03-10T14:33:20+01:00",
+    "updated_at": "2023-03-10T14:47:38+01:00",
     "media_id": "z0bxpp9a52zi",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6254717/inwoners-chinese-stad-xian-woedend-om-plan-voor-grieplockdowns.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254723,
-    "slug": "bestuurder-richt-ravage-aan-door-terminal-in-vs-in-te-rijden",
-    "type": "video",
-    "title": "Bestuurder richt ravage aan door terminal in VS in te rijden",
-    "subtitle": "Video",
-    "published_at": "2023-03-10T10:56:22+01:00",
-    "updated_at": "2023-03-10T10:56:23+01:00",
-    "media_id": "p5zx4waauc0x",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6254723/bestuurder-richt-ravage-aan-door-terminal-in-vs-in-te-rijden.html",
     "open_new_window": false,
     "partner": null
   }
