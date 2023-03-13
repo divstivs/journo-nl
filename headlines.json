@@ -1,5 +1,28 @@
 [
   {
+    "id": 6255151,
+    "slug": "reservekeeper-mignolet-volgende-dertiger-die-stopt-als-belgisch-international",
+    "type": "article",
+    "title": "Reservekeeper Mignolet volgende dertiger die stopt als Belgisch international",
+    "subtitle": null,
+    "published_at": "2023-03-13T19:42:07+01:00",
+    "updated_at": "2023-03-13T19:47:18+01:00",
+    "media_id": "kfmx5vuas2y9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6255151/reservekeeper-mignolet-volgende-dertiger-die-stopt-als-belgisch-international.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255150,
     "slug": "fotograaf-erwin-olaf-krijgt-koninklijke-onderscheiding-van-willem-alexander",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6255115/britse-huizen-gesloopt-omdat-ze-van-klif-dreigen-te-storten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255112,
-    "slug": "salarisverhogingen-blijven-stijgen-en-vestigen-nieuw-eeuwrecord",
-    "type": "article",
-    "title": "Salarisverhogingen blijven stijgen en vestigen nieuw eeuwrecord",
-    "subtitle": null,
-    "published_at": "2023-03-13T15:03:00+01:00",
-    "updated_at": "2023-03-13T15:50:45+01:00",
-    "media_id": "35zxf4safu2r",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6255112/salarisverhogingen-blijven-stijgen-en-vestigen-nieuw-eeuwrecord.html",
     "open_new_window": false,
     "partner": null
   }
