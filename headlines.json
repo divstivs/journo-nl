@@ -1,12 +1,35 @@
 [
   {
+    "id": 6258946,
+    "slug": "israelische-defensieminister-mag-toch-aanblijven-vanwege-veiligheidscrisis",
+    "type": "article",
+    "title": "Israëlische defensieminister mag toch aanblijven vanwege veiligheidscrisis",
+    "subtitle": null,
+    "published_at": "2023-04-10T23:09:09+02:00",
+    "updated_at": "2023-04-10T23:14:44+02:00",
+    "media_id": "1mkxqbya7nuc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6258946/israelische-defensieminister-mag-toch-aanblijven-vanwege-veiligheidscrisis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258945,
     "slug": "barcelona-bijt-zich-stuk-op-girona-en-loopt-slechts-een-punt-uit-op-real-madrid",
     "type": "article",
     "title": "Barcelona bijt zich stuk op Girona en loopt 'slechts' een punt uit op Real Madrid",
     "subtitle": null,
     "published_at": "2023-04-10T22:56:46+02:00",
-    "updated_at": "2023-04-10T23:05:53+02:00",
+    "updated_at": "2023-04-10T23:16:34+02:00",
     "media_id": "b62x0t2azw2z",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6258928/hijskranen-zetten-gekantelde-trein-weer-rechtop-bij-voorschoten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258892,
-    "slug": "dit-is-de-al-aqsamoskee-middelpunt-van-spanningen-tussen-israel-en-palestijnen",
-    "type": "article",
-    "title": "Dit is de Al Aqsamoskee, middelpunt van spanningen tussen Israël en Palestijnen",
-    "subtitle": null,
-    "published_at": "2023-04-10T17:02:04+02:00",
-    "updated_at": "2023-04-10T21:19:09+02:00",
-    "media_id": "gh5xs2zav6xu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6258892/dit-is-de-al-aqsamoskee-middelpunt-van-spanningen-tussen-israel-en-palestijnen.html",
     "open_new_window": false,
     "partner": null
   }
