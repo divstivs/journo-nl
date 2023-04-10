@@ -1,5 +1,28 @@
 [
   {
+    "id": 6258945,
+    "slug": "barcelona-bijt-zich-stuk-op-girona-en-loopt-slechts-een-punt-uit-op-real-madrid",
+    "type": "article",
+    "title": "Barcelona bijt zich stuk op Girona en loopt 'slechts' een punt uit op Real Madrid",
+    "subtitle": null,
+    "published_at": "2023-04-10T22:56:46+02:00",
+    "updated_at": "2023-04-10T23:05:53+02:00",
+    "media_id": "b62x0t2azw2z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6258945/barcelona-bijt-zich-stuk-op-girona-en-loopt-slechts-een-punt-uit-op-real-madrid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258943,
     "slug": "getuigen-beschrijven-schietpartij-bij-bank-in-kentucky",
     "type": "video",
@@ -254,12 +277,12 @@
   },
   {
     "id": 6258932,
-    "slug": "geblesseerde-miedema-bezoekt-oranjevrouwen-met-open-armen-ontvangen",
+    "slug": "geblesseerde-miedema-bezoekt-oranjevrouwen-ben-met-open-armen-ontvangen",
     "type": "article",
-    "title": "Geblesseerde Miedema bezoekt Oranjevrouwen: 'Met open armen ontvangen'",
+    "title": "Geblesseerde Miedema bezoekt Oranjevrouwen: 'Ben met open armen ontvangen'",
     "subtitle": null,
     "published_at": "2023-04-10T18:54:38+02:00",
-    "updated_at": "2023-04-10T22:25:29+02:00",
+    "updated_at": "2023-04-10T23:03:26+02:00",
     "media_id": "iq8x4rtaprda",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6258932/geblesseerde-miedema-bezoekt-oranjevrouwen-met-open-armen-ontvangen.html",
+    "url": "/voetbal/6258932/geblesseerde-miedema-bezoekt-oranjevrouwen-ben-met-open-armen-ontvangen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6258892/dit-is-de-al-aqsamoskee-middelpunt-van-spanningen-tussen-israel-en-palestijnen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258923,
-    "slug": "luchtkwaliteit-in-noorden-was-gisteravond-slecht-door-paasvuren-vanavond-beter",
-    "type": "article",
-    "title": "Luchtkwaliteit in noorden was gisteravond slecht door paasvuren, vanavond beter",
-    "subtitle": null,
-    "published_at": "2023-04-10T17:01:21+02:00",
-    "updated_at": "2023-04-10T17:15:38+02:00",
-    "media_id": "1tzxtdna4i5l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6258923/luchtkwaliteit-in-noorden-was-gisteravond-slecht-door-paasvuren-vanavond-beter.html",
     "open_new_window": false,
     "partner": null
   }
