@@ -1,5 +1,28 @@
 [
   {
+    "id": 6264963,
+    "slug": "dwarslaesiepatient-kan-als-eerste-benen-bewegen-met-hersenen-door-implantaten",
+    "type": "article",
+    "title": "Dwarslaesiepatiënt kan als eerste benen bewegen met hersenen door implantaten",
+    "subtitle": null,
+    "published_at": "2023-05-24T17:20:02+02:00",
+    "updated_at": "2023-05-24T17:20:03+02:00",
+    "media_id": "atuxyozaguy9",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6264963/dwarslaesiepatient-kan-als-eerste-benen-bewegen-met-hersenen-door-implantaten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265001,
     "slug": "tennissters-loten-uit-tegen-oekraine-voor-play-offs-billie-jean-king-cup",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Nick Schilder brengt vrijdag zijn eerste single zonder Simon uit",
     "subtitle": null,
     "published_at": "2023-05-24T16:43:56+02:00",
-    "updated_at": "2023-05-24T16:43:57+02:00",
+    "updated_at": "2023-05-24T17:20:08+02:00",
     "media_id": "rwbxwu1aov9e",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6265004,
-    "slug": "emmentaler-wordt-geen-beschermd-merk-omdat-het-in-duits-gewoon-kaas-betekent",
+    "slug": "emmentaler-wordt-geen-beschermd-merk-omdat-het-in-duits-kaas-betekent",
     "type": "article",
-    "title": "Emmentaler wordt geen beschermd merk omdat het in Duits gewoon kaas betekent",
+    "title": "Emmentaler wordt geen beschermd merk omdat het in Duits 'kaas' betekent",
     "subtitle": null,
     "published_at": "2023-05-24T16:38:23+02:00",
-    "updated_at": "2023-05-24T17:15:11+02:00",
+    "updated_at": "2023-05-24T17:18:21+02:00",
     "media_id": "w5vxmymalr46",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6265004/emmentaler-wordt-geen-beschermd-merk-omdat-het-in-duits-gewoon-kaas-betekent.html",
+    "url": "/economie/6265004/emmentaler-wordt-geen-beschermd-merk-omdat-het-in-duits-kaas-betekent.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6264959/tsjech-plankt-ruim-9-uur-lang-en-breekt-wereldrecord.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264954,
-    "slug": "klagend-facebook-moet-alle-documenten-geven-die-brussel-opvraagt",
-    "type": "article",
-    "title": "Klagend Facebook moet alle documenten geven die Brussel opvraagt",
-    "subtitle": null,
-    "published_at": "2023-05-24T12:57:28+02:00",
-    "updated_at": "2023-05-24T12:57:29+02:00",
-    "media_id": "660xqvoajq6f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6264954/klagend-facebook-moet-alle-documenten-geven-die-brussel-opvraagt.html",
     "open_new_window": false,
     "partner": null
   }
