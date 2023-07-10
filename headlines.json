@@ -1,12 +1,35 @@
 [
   {
+    "id": 6271755,
+    "slug": "hermans-worstelt-met-aangekondigd-vertrek-rutte-het-raakt-me",
+    "type": "video",
+    "title": "Hermans worstelt met aangekondigd vertrek Rutte: 'Het raakt me'",
+    "subtitle": "Video",
+    "published_at": "2023-07-10T13:26:44+02:00",
+    "updated_at": "2023-07-10T13:26:46+02:00",
+    "media_id": "9h7xrgfarn8l",
+    "duration": "1:15",
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6271755/hermans-worstelt-met-aangekondigd-vertrek-rutte-het-raakt-me.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271751,
     "slug": "prinses-alexia-hijst-de-vlag-op-paleis-ten-bosch-na-slagen",
     "type": "video",
     "title": "Prinses Alexia hijst de vlag op Paleis ten Bosch na slagen",
     "subtitle": "Video",
     "published_at": "2023-07-10T13:11:56+02:00",
-    "updated_at": "2023-07-10T13:11:57+02:00",
+    "updated_at": "2023-07-10T13:25:42+02:00",
     "media_id": "69oxesfaqn4w",
     "duration": "0:21",
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "KNVB grijpt in bij homofobe spreekkoren: duel stilgelegd na waarschuwingen",
     "subtitle": null,
     "published_at": "2023-07-10T13:11:25+02:00",
-    "updated_at": "2023-07-10T13:12:30+02:00",
+    "updated_at": "2023-07-10T13:16:13+02:00",
     "media_id": "xr5xbt0aqkvg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6271724/tim-douwsma-is-voor-de-tweede-keer-vader-geworden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271723,
-    "slug": "oppositie-prijst-tomeloze-inzet-rutte-maar-vertrek-is-enige-juiste-besluit",
-    "type": "article",
-    "title": "Oppositie prijst 'tomeloze inzet' Rutte: 'Maar vertrek is enige juiste besluit'",
-    "subtitle": null,
-    "published_at": "2023-07-10T10:58:58+02:00",
-    "updated_at": "2023-07-10T12:45:56+02:00",
-    "media_id": "v9gxjlra7dgs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779274,
-      "slug": "val-kabinet",
-      "type": "default",
-      "name": "Val kabinet en vertrek Rutte",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/val-kabinet/6271723/oppositie-prijst-tomeloze-inzet-rutte-maar-vertrek-is-enige-juiste-besluit.html",
     "open_new_window": false,
     "partner": null
   }
