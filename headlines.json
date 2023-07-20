@@ -1,12 +1,35 @@
 [
   {
+    "id": 6273228,
+    "slug": "ajax-reservekeeper-pasveer-twee-maanden-aan-de-kant-met-gebroken-hand",
+    "type": "article",
+    "title": "Ajax-reservekeeper Pasveer twee maanden aan de kant met gebroken hand",
+    "subtitle": null,
+    "published_at": "2023-07-20T16:35:35+02:00",
+    "updated_at": "2023-07-20T16:41:54+02:00",
+    "media_id": "e5jxja2a0gqb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6273228/ajax-reservekeeper-pasveer-twee-maanden-aan-de-kant-met-gebroken-hand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273225,
     "slug": "leeuwin-bij-berlijn-ondanks-urenlange-zoektocht-met-pantserwagen-nog-spoorloos",
     "type": "article",
     "title": "Leeuwin bij Berlijn ondanks urenlange zoektocht met pantserwagen nog spoorloos",
     "subtitle": null,
     "published_at": "2023-07-20T16:27:43+02:00",
-    "updated_at": "2023-07-20T16:27:45+02:00",
+    "updated_at": "2023-07-20T16:36:10+02:00",
     "media_id": "juqxg0cafh53",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Russische aanklager wil dat oppositieleider Navalny nog 20 jaar cel krijgt",
     "subtitle": null,
     "published_at": "2023-07-20T16:22:30+02:00",
-    "updated_at": "2023-07-20T16:22:32+02:00",
+    "updated_at": "2023-07-20T16:46:06+02:00",
     "media_id": "krxx5sgaihv6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6273190/indonesier-filmt-gigantische-vuurbal-na-botsing-trein-en-vrachtwagen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273185,
-    "slug": "gezondheid-noorse-kroonprinses-mette-marit-gaat-op-en-neer",
-    "type": "article",
-    "title": "Gezondheid Noorse kroonprinses Mette-Marit gaat op en neer",
-    "subtitle": null,
-    "published_at": "2023-07-20T13:06:18+02:00",
-    "updated_at": "2023-07-20T13:06:20+02:00",
-    "media_id": "8atxqhjajrm5",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6273185/gezondheid-noorse-kroonprinses-mette-marit-gaat-op-en-neer.html",
     "open_new_window": false,
     "partner": null
   }
