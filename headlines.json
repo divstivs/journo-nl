@@ -1,12 +1,35 @@
 [
   {
+    "id": 6276811,
+    "slug": "fc-barcelona-trainer-xavi-twee-duels-geschorst-na-rode-kaart-in-openingsduel",
+    "type": "article",
+    "title": "FC Barcelona-trainer Xavi twee duels geschorst na rode kaart in openingsduel",
+    "subtitle": null,
+    "published_at": "2023-08-16T20:22:17+02:00",
+    "updated_at": "2023-08-16T20:22:18+02:00",
+    "media_id": "u7kxliaakj7v",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6276811/fc-barcelona-trainer-xavi-twee-duels-geschorst-na-rode-kaart-in-openingsduel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276810,
     "slug": "parkeerautomaten-tiel-doelwit-van-vandalisme-meerdere-gestolen-en-vernield",
     "type": "article",
     "title": "Parkeerautomaten Tiel doelwit van vandalisme: meerdere gestolen en vernield",
     "subtitle": null,
     "published_at": "2023-08-16T20:19:09+02:00",
-    "updated_at": "2023-08-16T20:19:11+02:00",
+    "updated_at": "2023-08-16T20:23:14+02:00",
     "media_id": "6iyxwkoaz1mb",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Jansen verwacht beterschap van AZ tegen Santa Coloma: 'We waren niet onszelf'",
     "subtitle": null,
     "published_at": "2023-08-16T20:11:04+02:00",
-    "updated_at": "2023-08-16T20:19:15+02:00",
+    "updated_at": "2023-08-16T20:25:42+02:00",
     "media_id": "dz4xjlyazd6l",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Dit is waarom je in deze tijd van het jaar veel spinnen ziet",
     "subtitle": "In 100 woorden",
     "published_at": "2023-08-16T19:59:51+02:00",
-    "updated_at": "2023-08-16T19:59:52+02:00",
+    "updated_at": "2023-08-16T20:20:41+02:00",
     "media_id": "kzrxtu7agdpl",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6276613/ajax-heeft-concurrent-voor-brobbey-binnen-akpom-voor-vijf-jaar-naar-amsterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276781,
-    "slug": "jakobsen-wint-in-denemarken-jumbo-visma-snelste-bij-ploegentijdrit-in-burgos",
-    "type": "article",
-    "title": "Jakobsen wint in Denemarken, Jumbo-Visma snelste bij ploegentijdrit in Burgos",
-    "subtitle": null,
-    "published_at": "2023-08-16T17:09:42+02:00",
-    "updated_at": "2023-08-16T18:11:48+02:00",
-    "media_id": "gavxmmbam2mf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6276781/jakobsen-wint-in-denemarken-jumbo-visma-snelste-bij-ploegentijdrit-in-burgos.html",
     "open_new_window": false,
     "partner": null
   }
