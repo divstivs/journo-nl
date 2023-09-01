@@ -1,28 +1,5 @@
 [
   {
-    "id": 6279013,
-    "slug": "rechter-in-texas-optredens-dragqueens-vallen-onder-vrijheid-van-meningsuiting",
-    "type": "article",
-    "title": "Rechter in Texas: optredens dragqueens vallen onder vrijheid van meningsuiting",
-    "subtitle": null,
-    "published_at": "2023-09-01T10:28:11+02:00",
-    "updated_at": "2023-09-01T10:28:14+02:00",
-    "media_id": "m1oxdrxatt7u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6279013/rechter-in-texas-optredens-dragqueens-vallen-onder-vrijheid-van-meningsuiting.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6279012,
     "slug": "gedetineerden-nemen-gevangenis-in-ecuador-over",
     "type": "video",
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/economie/6278977/nog-226000-ondernemers-hebben-coronaschuld-een-op-de-vijf-betaalt-niet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278976,
+    "slug": "diederik-van-rooijen-maakt-met-eigen-productiehuis-serie-voor-videoland",
+    "type": "article",
+    "title": "Diederik van Rooijen maakt met eigen productiehuis serie voor Videoland",
+    "subtitle": null,
+    "published_at": "2023-09-01T05:57:40+02:00",
+    "updated_at": "2023-09-01T08:47:25+02:00",
+    "media_id": "q7dxt6capias",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6278976/diederik-van-rooijen-maakt-met-eigen-productiehuis-serie-voor-videoland.html",
     "open_new_window": false,
     "partner": null
   }
