@@ -1,5 +1,28 @@
 [
   {
+    "id": 6281984,
+    "slug": "verstappen-verreweg-het-snelst-in-eerste-vrije-training-gp-japan",
+    "type": "article",
+    "title": "Verstappen verreweg het snelst in eerste vrije training GP Japan",
+    "subtitle": null,
+    "published_at": "2023-09-22T05:34:59+02:00",
+    "updated_at": "2023-09-22T05:37:19+02:00",
+    "media_id": "ygyxvhkag183",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6281984/verstappen-verreweg-het-snelst-in-eerste-vrije-training-gp-japan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281941,
     "slug": "waarom-verstappens-auto-vorige-week-niet-werkte-maar-in-japan-wel",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6281952/van-der-plas-krijgt-kritiek-op-slordige-motie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281939,
-    "slug": "az-beleeft-horroravond-in-bosnie-nederlaag-na-0-3-voorsprong-bij-rust",
-    "type": "article",
-    "title": "AZ beleeft horroravond in Bosnië: nederlaag na 0-3-voorsprong bij rust",
-    "subtitle": null,
-    "published_at": "2023-09-21T20:40:16+02:00",
-    "updated_at": "2023-09-22T05:14:07+02:00",
-    "media_id": "5b0xpj9ap2m9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6281939/az-beleeft-horroravond-in-bosnie-nederlaag-na-0-3-voorsprong-bij-rust.html",
     "open_new_window": false,
     "partner": null
   }
