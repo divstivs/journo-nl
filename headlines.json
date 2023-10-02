@@ -1,5 +1,28 @@
 [
   {
+    "id": 6283465,
+    "slug": "marianne-vos-slaat-veldritseizoen-over-na-operatie-ik-ben-blij-met-de-progressie",
+    "type": "article",
+    "title": "Marianne Vos slaat veldritseizoen over na operatie: 'Ik ben blij met de progressie'",
+    "subtitle": null,
+    "published_at": "2023-10-02T10:29:37+02:00",
+    "updated_at": "2023-10-02T10:29:38+02:00",
+    "media_id": "n73xw7uaf5pq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6283465/marianne-vos-slaat-veldritseizoen-over-na-operatie-ik-ben-blij-met-de-progressie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283460,
     "slug": "vlammen-slokken-egyptisch-politiebureau-op",
     "type": "video",
@@ -75,7 +98,7 @@
     "title": "Relatief veel Nederlandse vrouwen krijgen longkanker",
     "subtitle": null,
     "published_at": "2023-10-02T09:23:44+02:00",
-    "updated_at": "2023-10-02T09:48:14+02:00",
+    "updated_at": "2023-10-02T10:29:43+02:00",
     "media_id": "586xnh7a2gdv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6283434/zeker-negen-doden-nadat-mexicaanse-kerk-instort-tijdens-doopdienst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283433,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-10-02T05:33:39+02:00",
-    "updated_at": "2023-10-02T06:35:37+02:00",
-    "media_id": "xdtxc8kaj8rf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6283433/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
