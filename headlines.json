@@ -1,5 +1,51 @@
 [
   {
+    "id": 6284435,
+    "slug": "psv-start-ook-tegen-sparta-rotterdam-met-tillman-als-aanvallende-middenvelder",
+    "type": "article",
+    "title": "PSV start ook tegen Sparta Rotterdam met Tillman als aanvallende middenvelder",
+    "subtitle": null,
+    "published_at": "2023-10-08T15:47:11+02:00",
+    "updated_at": "2023-10-08T15:47:58+02:00",
+    "media_id": "yk6x540as0kc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6284435/psv-start-ook-tegen-sparta-rotterdam-met-tillman-als-aanvallende-middenvelder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284433,
+    "slug": "mohoric-de-sterkste-in-tweede-editie-wk-gravel-bijrol-van-aert-op-pechdag",
+    "type": "article",
+    "title": "Mohoric de sterkste in tweede editie WK gravel, bijrol Van Aert op pechdag",
+    "subtitle": null,
+    "published_at": "2023-10-08T15:34:01+02:00",
+    "updated_at": "2023-10-08T15:35:02+02:00",
+    "media_id": "i8xx1ppazunk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6284433/mohoric-de-sterkste-in-tweede-editie-wk-gravel-bijrol-van-aert-op-pechdag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284432,
     "slug": "slot-ondanks-zege-kritisch-op-feyenoord-dit-was-niet-het-niveau-dat-ik-graag-zie",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Terugblik F1: 'Dominantie Verstappen gaat geschiedenisboeken in'",
     "subtitle": "NU+",
     "published_at": "2023-10-08T15:03:12+02:00",
-    "updated_at": "2023-10-08T15:03:13+02:00",
+    "updated_at": "2023-10-08T15:37:02+02:00",
     "media_id": "uywxj05asl3y",
     "duration": null,
     "canonical_section": {
@@ -70,12 +116,12 @@
   },
   {
     "id": 6284334,
-    "slug": "hassan-maakt-indruk-en-loopt-met-oud-winnaar-onder-schema-van-wereldrecord-in-chicago",
+    "slug": "hassan-maakt-indruk-maar-moet-titelverdedigster-wel-laten-gaan-bij-marathon-in-chicago",
     "type": "article",
-    "title": "Hassan maakt indruk en loopt met oud-winnaar onder schema van wereldrecord in Chicago",
+    "title": "Hassan maakt indruk, maar moet titelverdedigster wel laten gaan bij marathon in Chicago",
     "subtitle": "Liveblog",
     "published_at": "2023-10-08T14:29:45+02:00",
-    "updated_at": "2023-10-08T15:26:57+02:00",
+    "updated_at": "2023-10-08T15:43:58+02:00",
     "media_id": "tf1xk81aycmf",
     "duration": null,
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6284334/hassan-maakt-indruk-en-loopt-met-oud-winnaar-onder-schema-van-wereldrecord-in-chicago.html",
+    "url": "/sport-overig/6284334/hassan-maakt-indruk-maar-moet-titelverdedigster-wel-laten-gaan-bij-marathon-in-chicago.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +305,7 @@
     "title": "Ajax mist Sutalo en Berghuis tegen AZ, basisplek voor Medic en Van Axel Dongen",
     "subtitle": null,
     "published_at": "2023-10-08T13:34:58+02:00",
-    "updated_at": "2023-10-08T14:50:44+02:00",
+    "updated_at": "2023-10-08T15:36:25+02:00",
     "media_id": "8cyxd0ta2r4o",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6284413/twee-israelische-toeristen-gedood-door-agent-in-egypte-motief-is-onduidelijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284410,
-    "slug": "wat-zijn-hamas-en-hezbollah-die-nu-vechten-met-israel",
-    "type": "article",
-    "title": "Wat zijn Hamas en Hezbollah die nu vechten met Israël?",
-    "subtitle": null,
-    "published_at": "2023-10-08T11:34:33+02:00",
-    "updated_at": "2023-10-08T13:53:20+02:00",
-    "media_id": "dq5xz2talcoy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6284410/wat-zijn-hamas-en-hezbollah-die-nu-vechten-met-israel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284411,
-    "slug": "az-komt-op-slag-van-rust-op-voorsprong-in-topper-tegen-ajax",
-    "type": "article",
-    "title": "AZ komt op slag van rust op voorsprong in topper tegen Ajax",
-    "subtitle": "Liveblog",
-    "published_at": "2023-10-08T11:34:18+02:00",
-    "updated_at": "2023-10-08T15:23:10+02:00",
-    "media_id": "8g7x214alr3c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6284411/az-komt-op-slag-van-rust-op-voorsprong-in-topper-tegen-ajax.html",
     "open_new_window": false,
     "partner": null
   }
