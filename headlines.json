@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284659,
+    "slug": "podcast-met-de-koning-en-nunl-maken-kans-op-een-dutch-podcast-award",
+    "type": "article",
+    "title": "Podcast met de koning en NU.nl maken kans op een Dutch Podcast Award",
+    "subtitle": null,
+    "published_at": "2023-10-10T08:46:02+02:00",
+    "updated_at": "2023-10-10T08:46:04+02:00",
+    "media_id": "70uxayta5wbi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6284659/podcast-met-de-koning-en-nunl-maken-kans-op-een-dutch-podcast-award.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284658,
     "slug": "nederlandse-industrie-piept-en-kraakt-al-acht-maanden-op-rij",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Zonder energierekening was inflatie 5,5 procent (in plaats van 0,2)",
     "subtitle": null,
     "published_at": "2023-10-10T07:40:03+02:00",
-    "updated_at": "2023-10-10T08:20:35+02:00",
+    "updated_at": "2023-10-10T08:38:32+02:00",
     "media_id": "foexh0xapfpv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6284640/koeman-wijt-blessuregolf-oranje-aan-speelkalender-spelers-krijgen-geen-rust.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284641,
-    "slug": "israelis-doneren-massaal-bloed-voor-slachtoffers-hamas-aanval",
-    "type": "video",
-    "title": "Israëli's doneren massaal bloed voor slachtoffers Hamas-aanval",
-    "subtitle": "Video",
-    "published_at": "2023-10-09T21:16:27+02:00",
-    "updated_at": "2023-10-09T21:16:28+02:00",
-    "media_id": "e21x4yuagbeb",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6284641/israelis-doneren-massaal-bloed-voor-slachtoffers-hamas-aanval.html",
     "open_new_window": false,
     "partner": null
   }
