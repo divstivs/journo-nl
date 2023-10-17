@@ -1,35 +1,12 @@
 [
   {
-    "id": 6285615,
-    "slug": "vermoedelijke-dader-terreuraanslag-brussel-neergeschoten-in-belgisch-cafe",
-    "type": "article",
-    "title": "Vermoedelijke dader terreuraanslag Brussel neergeschoten in Belgisch café",
-    "subtitle": null,
-    "published_at": "2023-10-17T08:18:53+02:00",
-    "updated_at": "2023-10-17T08:19:31+02:00",
-    "media_id": "w11x1d9aiwp8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6285615/vermoedelijke-dader-terreuraanslag-brussel-neergeschoten-in-belgisch-cafe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6285635,
     "slug": "premier-de-croo-over-terrorismeverdachte-verbleef-illegaal-in-belgie",
     "type": "video",
     "title": "Premier De Croo over terrorismeverdachte: 'Verbleef illegaal in België'",
     "subtitle": "Video",
     "published_at": "2023-10-17T08:11:54+02:00",
-    "updated_at": "2023-10-17T08:20:01+02:00",
+    "updated_at": "2023-10-17T08:11:55+02:00",
     "media_id": "8nrx8cradao6",
     "duration": "1:45",
     "canonical_section": {
@@ -121,7 +98,7 @@
     "title": "Poppodia stevenen na stille coronaperiode af op bezoekersrecord",
     "subtitle": null,
     "published_at": "2023-10-17T07:28:40+02:00",
-    "updated_at": "2023-10-17T08:16:32+02:00",
+    "updated_at": "2023-10-17T07:28:41+02:00",
     "media_id": "nl6x38na3q8e",
     "duration": null,
     "canonical_section": {
@@ -162,12 +139,12 @@
   },
   {
     "id": 6285628,
-    "slug": "premier-de-croo-vraagt-om-belgische-kalmte-na-terroristische-aanslag-brussel",
+    "slug": "premier-vraagt-om-belgische-kalmte-na-terroristische-aanslag-dader-op-de-vlucht",
     "type": "article",
-    "title": "Premier De Croo vraagt om 'Belgische kalmte' na terroristische aanslag Brussel",
+    "title": "Premier vraagt om 'Belgische kalmte' na terroristische aanslag, dader op de vlucht",
     "subtitle": null,
     "published_at": "2023-10-17T07:10:04+02:00",
-    "updated_at": "2023-10-17T08:17:14+02:00",
+    "updated_at": "2023-10-17T07:52:05+02:00",
     "media_id": "flsxcnrab4d3",
     "duration": null,
     "canonical_section": {
@@ -179,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6285628/premier-de-croo-vraagt-om-belgische-kalmte-na-terroristische-aanslag-brussel.html",
+    "url": "/buitenland/6285628/premier-vraagt-om-belgische-kalmte-na-terroristische-aanslag-dader-op-de-vlucht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/economie/6285551/vrees-voor-duurdere-stroom-door-hogere-kosten-windparken-op-zee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284855,
+    "slug": "mensen-die-iets-van-de-wolf-vinden-worden-geregeld-met-de-dood-bedreigd",
+    "type": "article",
+    "title": "Mensen die iets van de wolf vinden, worden geregeld met de dood bedreigd",
+    "subtitle": null,
+    "published_at": "2023-10-17T05:06:22+02:00",
+    "updated_at": "2023-10-17T07:50:11+02:00",
+    "media_id": "o7wxv0ka434f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779300,
+      "slug": "wolf",
+      "type": "files",
+      "name": "Wolf",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wolf/6284855/mensen-die-iets-van-de-wolf-vinden-worden-geregeld-met-de-dood-bedreigd.html",
     "open_new_window": false,
     "partner": null
   }
