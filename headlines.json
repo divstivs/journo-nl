@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289337,
+    "slug": "rijpma-de-jong-pakt-ook-op-3000-meter-wb-medaille-beune-naast-podium",
+    "type": "article",
+    "title": "Rijpma-de Jong pakt ook op 3.000 meter WB-medaille, Beune naast podium",
+    "subtitle": null,
+    "published_at": "2023-11-12T08:27:37+01:00",
+    "updated_at": "2023-11-12T08:27:38+01:00",
+    "media_id": "f3zx9x7anl58",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6289337/rijpma-de-jong-pakt-ook-op-3000-meter-wb-medaille-beune-naast-podium.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289268,
     "slug": "pensioenleeftijd-in-nederland-moet-verhoogd-worden",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6289318/go-ahead-wint-na-acht-maanden-weer-uitduel-bij-rentree-rkc-keeper-vaessen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289317,
-    "slug": "vriend-over-uitvaart-friends-acteur-matthew-perry-het-was-lachen-en-huilen",
-    "type": "article",
-    "title": "Vriend over uitvaart Friends-acteur Matthew Perry: het was lachen en huilen",
-    "subtitle": null,
-    "published_at": "2023-11-11T20:52:44+01:00",
-    "updated_at": "2023-11-11T21:54:18+01:00",
-    "media_id": "2oaxohzatqg7",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6289317/vriend-over-uitvaart-friends-acteur-matthew-perry-het-was-lachen-en-huilen.html",
     "open_new_window": false,
     "partner": null
   }
