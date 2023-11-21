@@ -1,12 +1,81 @@
 [
   {
+    "id": 6290638,
+    "slug": "na-vanmoof-is-weer-een-amsterdams-e-bikemerk-failliet",
+    "type": "article",
+    "title": "Na VanMoof is weer een Amsterdams e-bikemerk failliet",
+    "subtitle": null,
+    "published_at": "2023-11-21T11:12:52+01:00",
+    "updated_at": "2023-11-21T11:12:53+01:00",
+    "media_id": "7p2xdnkaw18k",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6290638/na-vanmoof-is-weer-een-amsterdams-e-bikemerk-failliet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290530,
+    "slug": "groep-wajongers-alsnog-vrijgesteld-van-gemeentelijke-en-waterschapsbelasting",
+    "type": "article",
+    "title": "Groep Wajongers alsnog vrijgesteld van gemeentelijke en waterschapsbelasting",
+    "subtitle": null,
+    "published_at": "2023-11-21T10:53:48+01:00",
+    "updated_at": "2023-11-21T10:53:51+01:00",
+    "media_id": "gw5x698anh9d",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6290530/groep-wajongers-alsnog-vrijgesteld-van-gemeentelijke-en-waterschapsbelasting.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290636,
+    "slug": "woedende-psver-dest-pakt-domme-rode-kaart-bij-vs",
+    "type": "video",
+    "title": "Woedende PSV'er Dest pakt domme rode kaart bij VS",
+    "subtitle": "Video",
+    "published_at": "2023-11-21T10:51:22+01:00",
+    "updated_at": "2023-11-21T10:51:25+01:00",
+    "media_id": "vp5xibdam2cl",
+    "duration": "1:10",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6290636/woedende-psver-dest-pakt-domme-rode-kaart-bij-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290635,
     "slug": "archeologen-ontdekken-1000-jaar-oude-mummies-in-peru",
     "type": "video",
     "title": "Archeologen ontdekken 1.000 jaar oude mummies in Peru",
     "subtitle": "Video",
     "published_at": "2023-11-21T10:47:43+01:00",
-    "updated_at": "2023-11-21T10:47:44+01:00",
+    "updated_at": "2023-11-21T10:54:32+01:00",
     "media_id": "s5ix0aia8ni5",
     "duration": "0:46",
     "canonical_section": {
@@ -29,7 +98,7 @@
     "title": "Werk jij woensdag op een stembureau? Dan zoeken we jou",
     "subtitle": "Oproep",
     "published_at": "2023-11-21T10:46:23+01:00",
-    "updated_at": "2023-11-21T10:46:24+01:00",
+    "updated_at": "2023-11-21T11:05:42+01:00",
     "media_id": "hsuxbqfa4reh",
     "duration": null,
     "canonical_section": {
@@ -47,12 +116,12 @@
   },
   {
     "id": 6290634,
-    "slug": "verdachte-die-baudet-met-fles-op-hoofd-sloeg-is-minderjarige-jongen",
+    "slug": "verdachte-die-baudet-met-fles-op-hoofd-zou-hebben-geslagen-is-minderjarige-jongen",
     "type": "article",
-    "title": "Verdachte die Baudet met fles op hoofd sloeg is minderjarige jongen",
+    "title": "Verdachte die Baudet met fles op hoofd zou hebben geslagen is minderjarige jongen",
     "subtitle": null,
     "published_at": "2023-11-21T10:45:26+01:00",
-    "updated_at": "2023-11-21T10:48:40+01:00",
+    "updated_at": "2023-11-21T11:26:37+01:00",
     "media_id": "elax0tqadfyw",
     "duration": null,
     "canonical_section": {
@@ -64,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6290634/verdachte-die-baudet-met-fles-op-hoofd-sloeg-is-minderjarige-jongen.html",
+    "url": "/politiek/6290634/verdachte-die-baudet-met-fles-op-hoofd-zou-hebben-geslagen-is-minderjarige-jongen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/economie/6290604/steeds-meer-zorgmedewerkers-zijn-zzper-een-op-negen-is-eigen-baas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290603,
-    "slug": "gefrustreerde-dest-wekt-woede-amerikaanse-teamgenoten-met-bizarre-rode-kaart",
-    "type": "article",
-    "title": "Gefrustreerde Dest wekt woede Amerikaanse teamgenoten met bizarre rode kaart",
-    "subtitle": null,
-    "published_at": "2023-11-21T07:28:54+01:00",
-    "updated_at": "2023-11-21T09:40:41+01:00",
-    "media_id": "kjaxje6a5mad",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6290603/gefrustreerde-dest-wekt-woede-amerikaanse-teamgenoten-met-bizarre-rode-kaart.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290602,
-    "slug": "dode-bij-woningbrand-in-oosterhout-ander-redt-zichzelf-door-uit-raam-te-springen",
-    "type": "article",
-    "title": "Dode bij woningbrand in Oosterhout, ander redt zichzelf door uit raam te springen",
-    "subtitle": null,
-    "published_at": "2023-11-21T07:17:41+01:00",
-    "updated_at": "2023-11-21T07:24:25+01:00",
-    "media_id": "yxtx3bgajzhg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6290602/dode-bij-woningbrand-in-oosterhout-ander-redt-zichzelf-door-uit-raam-te-springen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290600,
-    "slug": "vakbonden-akkoord-over-loonsverhoging-en-verlaging-werkdruk-in-jeugdzorg",
-    "type": "article",
-    "title": "Vakbonden akkoord over loonsverhoging en verlaging werkdruk in jeugdzorg",
-    "subtitle": null,
-    "published_at": "2023-11-21T07:08:05+01:00",
-    "updated_at": "2023-11-21T09:36:50+01:00",
-    "media_id": "zvkx36vanjgq",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6290600/vakbonden-akkoord-over-loonsverhoging-en-verlaging-werkdruk-in-jeugdzorg.html",
     "open_new_window": false,
     "partner": null
   }
