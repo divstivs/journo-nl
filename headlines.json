@@ -1,12 +1,35 @@
 [
   {
+    "id": 6293493,
+    "slug": "frenkie-de-jong-kritisch-op-zichzelf-en-barcelona-na-dreun-van-stuntploeg-girona",
+    "type": "article",
+    "title": "Frenkie de Jong kritisch op zichzelf en Barcelona na dreun van stuntploeg Girona",
+    "subtitle": null,
+    "published_at": "2023-12-11T07:45:51+01:00",
+    "updated_at": "2023-12-11T07:45:52+01:00",
+    "media_id": "r31x7ijagyik",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6293493/frenkie-de-jong-kritisch-op-zichzelf-en-barcelona-na-dreun-van-stuntploeg-girona.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293494,
     "slug": "andre-van-duin-en-janny-van-der-heijden-gaan-denkend-aan-mallorca-maken",
     "type": "article",
     "title": "André van Duin en Janny van der Heijden gaan Denkend aan Mallorca maken",
     "subtitle": null,
     "published_at": "2023-12-11T07:29:29+01:00",
-    "updated_at": "2023-12-11T07:29:37+01:00",
+    "updated_at": "2023-12-11T07:36:35+01:00",
     "media_id": "svcxqxpany0g",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6293473/handbalsters-hebben-volste-geloof-in-wk-medaille-gevoel-is-hartstikke-goed.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293183,
-    "slug": "goed-nieuws-van-deze-week-minder-verspilling-en-succesvol-poeponderzoek",
-    "type": "article",
-    "title": "Goed nieuws van deze week: Minder verspilling en succesvol poeponderzoek",
-    "subtitle": null,
-    "published_at": "2023-12-10T19:52:30+01:00",
-    "updated_at": "2023-12-10T19:52:31+01:00",
-    "media_id": "fo2xateaws3w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779220,
-      "slug": "goed-nieuws",
-      "type": "default",
-      "name": "Goed nieuws",
-      "style": "nuoverig",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/goed-nieuws/6293183/goed-nieuws-van-deze-week-minder-verspilling-en-succesvol-poeponderzoek.html",
     "open_new_window": false,
     "partner": null
   }
