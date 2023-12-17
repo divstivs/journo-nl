@@ -1,5 +1,28 @@
 [
   {
+    "id": 6294446,
+    "slug": "trainer-van-den-brom-na-anderhalf-jaar-ontslagen-bij-lech-poznan",
+    "type": "article",
+    "title": "Trainer Van den Brom na anderhalf jaar ontslagen bij Lech Poznan",
+    "subtitle": null,
+    "published_at": "2023-12-17T10:48:19+01:00",
+    "updated_at": "2023-12-17T10:48:21+01:00",
+    "media_id": "nsmxpemascai",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6294446/trainer-van-den-brom-na-anderhalf-jaar-ontslagen-bij-lech-poznan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294442,
     "slug": "gerard-joling-doneert-onderbroek-bij-aftrap-serious-request-2023-in-nijmegen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6294427/nieuwe-gouden-haan-op-torenspits-notre-dame-gehesen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294425,
-    "slug": "ijshockeyers-schrijven-geschiedenis-met-monsterzege-op-okt",
-    "type": "article",
-    "title": "IJshockeyers schrijven geschiedenis met monsterzege op OKT",
-    "subtitle": null,
-    "published_at": "2023-12-16T22:07:02+01:00",
-    "updated_at": "2023-12-16T22:58:53+01:00",
-    "media_id": "q8xxatja557z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6294425/ijshockeyers-schrijven-geschiedenis-met-monsterzege-op-okt.html",
     "open_new_window": false,
     "partner": null
   }
