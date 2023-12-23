@@ -1,5 +1,28 @@
 [
   {
+    "id": 6295389,
+    "slug": "onrustige-nacht-met-explosies-en-incidenten-in-rotterdam-enschede-en-maarssen",
+    "type": "article",
+    "title": "Onrustige nacht met explosies en incidenten in Rotterdam, Enschede en Maarssen",
+    "subtitle": null,
+    "published_at": "2023-12-23T11:18:11+01:00",
+    "updated_at": "2023-12-23T11:23:31+01:00",
+    "media_id": "gcpxmelapznm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6295389/onrustige-nacht-met-explosies-en-incidenten-in-rotterdam-enschede-en-maarssen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295388,
     "slug": "stel-wint-kerstjackpot-en-hoogste-bedrag-van-het-jaar-bij-holland-casino",
     "type": "article",
@@ -190,7 +213,7 @@
     "title": "Tim Hofman kan op goede manier met angst omgaan na bedreigingen",
     "subtitle": null,
     "published_at": "2023-12-23T09:53:42+01:00",
-    "updated_at": "2023-12-23T10:27:38+01:00",
+    "updated_at": "2023-12-23T11:24:22+01:00",
     "media_id": "u8yxko1atf1x",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Guardiola uitzinnig na prijzenregen City: 'Dit is een Engelse club nog nooit gelukt'",
     "subtitle": null,
     "published_at": "2023-12-23T09:32:54+01:00",
-    "updated_at": "2023-12-23T09:58:14+01:00",
+    "updated_at": "2023-12-23T11:21:07+01:00",
     "media_id": "vq3xxwma94hb",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/weerbericht/6295366/zachte-zaterdag-met-in-het-noorden-buien-en-code-geel-door-wind.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295365,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-12-23T05:23:44+01:00",
-    "updated_at": "2023-12-23T05:23:45+01:00",
-    "media_id": "vunx81iava32",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779164,
-      "slug": "het-woord",
-      "type": "default",
-      "name": "Het Woord",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/het-woord/6295365/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
