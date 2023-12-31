@@ -1,5 +1,28 @@
 [
   {
+    "id": 6296188,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-12-31T05:20:30+01:00",
+    "updated_at": "2023-12-31T05:20:31+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6296188/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296187,
     "slug": "de-ontdekkingsreis-van-toptalent-de-boo-waan-me-in-andere-melkweg",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6296167/dit-jaar-geen-record-voor-105-miljoen-euro-aan-vuurwerk-verkocht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296154,
-    "slug": "leerdam-flikt-het-weer-op-haar-1000-meter-bijna-perfect-verjaardagscadeau",
-    "type": "article",
-    "title": "Leerdam flikt het weer op 'haar' 1.000 meter: 'Bijna perfect verjaardagscadeau'",
-    "subtitle": null,
-    "published_at": "2023-12-30T19:12:07+01:00",
-    "updated_at": "2023-12-30T19:34:41+01:00",
-    "media_id": "6x8xldmav7y8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6296154/leerdam-flikt-het-weer-op-haar-1000-meter-bijna-perfect-verjaardagscadeau.html",
     "open_new_window": false,
     "partner": null
   }
