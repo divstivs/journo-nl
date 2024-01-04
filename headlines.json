@@ -1,5 +1,28 @@
 [
   {
+    "id": 6296717,
+    "slug": "burgemeester-maastricht-over-woonboten-en-brug-beroerd-scenario",
+    "type": "video",
+    "title": "Burgemeester Maastricht over woonboten en brug: 'Beroerd scenario'",
+    "subtitle": "Video",
+    "published_at": "2024-01-04T14:34:01+01:00",
+    "updated_at": "2024-01-04T14:34:02+01:00",
+    "media_id": "0izxun7akj4t",
+    "duration": "1:46",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6296717/burgemeester-maastricht-over-woonboten-en-brug-beroerd-scenario.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296695,
     "slug": "honderd-namen-vrijgegeven-in-grote-epstein-zaak-maar-wat-ging-vooraf",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Veel meer mensen checken sinds hoogwater of hun huis kan overstromen",
     "subtitle": null,
     "published_at": "2024-01-04T14:02:08+01:00",
-    "updated_at": "2024-01-04T14:03:52+01:00",
+    "updated_at": "2024-01-04T14:33:21+01:00",
     "media_id": "arax2cragfqp",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Supermarkten berekenen frisdranktaks volledig door in prijs cola en havermelk",
     "subtitle": null,
     "published_at": "2024-01-04T12:01:27+01:00",
-    "updated_at": "2024-01-04T12:25:00+01:00",
+    "updated_at": "2024-01-04T14:29:20+01:00",
     "media_id": "x0xxsh5a7dfy",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6296697/nadal-wint-weer-overtuigend-en-beleeft-voorlopig-zorgeloze-rentree-in-brisbane.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296689,
-    "slug": "ik-wil-geen-huis-kopen-dat-het-risico-loopt-op-overstroming",
-    "type": "article",
-    "title": "'Ik wil geen huis kopen dat het risico loopt op overstroming'",
-    "subtitle": "Stelling",
-    "published_at": "2024-01-04T11:01:43+01:00",
-    "updated_at": "2024-01-04T12:30:02+01:00",
-    "media_id": "m79xxraaizzh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6296689/ik-wil-geen-huis-kopen-dat-het-risico-loopt-op-overstroming.html",
     "open_new_window": false,
     "partner": null
   }
