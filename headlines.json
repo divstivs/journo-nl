@@ -1,5 +1,28 @@
 [
   {
+    "id": 6297500,
+    "slug": "mogelijk-gewapend-persoon-op-station-zwolle-geen-treinen-naar-het-noorden",
+    "type": "article",
+    "title": "Mogelijk gewapend persoon op station Zwolle, geen treinen naar het noorden",
+    "subtitle": null,
+    "published_at": "2024-01-11T17:43:47+01:00",
+    "updated_at": "2024-01-11T17:45:54+01:00",
+    "media_id": "hm9xqkua04q7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6297500/mogelijk-gewapend-persoon-op-station-zwolle-geen-treinen-naar-het-noorden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297499,
     "slug": "bijzondere-wolk-boven-japan-wekt-verwarring-op",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6297472/negen-arrestaties-na-ontdekking-geheime-tunnels-onder-synagoge-in-new-york.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297473,
-    "slug": "juwelier-pompt-chinese-rivier-leeg-om-verloren-kostbare-ring-te-vinden",
-    "type": "video",
-    "title": "Juwelier pompt Chinese rivier leeg om verloren kostbare ring te vinden",
-    "subtitle": "Video",
-    "published_at": "2024-01-11T14:24:44+01:00",
-    "updated_at": "2024-01-11T16:16:28+01:00",
-    "media_id": "jwjxp22a9obs",
-    "duration": "0:28",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6297473/juwelier-pompt-chinese-rivier-leeg-om-verloren-kostbare-ring-te-vinden.html",
     "open_new_window": false,
     "partner": null
   }
