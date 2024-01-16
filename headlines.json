@@ -1,5 +1,28 @@
 [
   {
+    "id": 6298054,
+    "slug": "poolse-truckers-stoppen-voorlopig-met-blokkades-aan-oekraiense-grens",
+    "type": "article",
+    "title": "Poolse truckers stoppen voorlopig met blokkades aan Oekraïense grens",
+    "subtitle": null,
+    "published_at": "2024-01-16T17:45:41+01:00",
+    "updated_at": "2024-01-16T17:45:46+01:00",
+    "media_id": "gkoxdecalt2p",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6298054/poolse-truckers-stoppen-voorlopig-met-blokkades-aan-oekraiense-grens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298049,
     "slug": "rijkswaterstaat-verwacht-vanavond-en-morgen-nog-gladheid-op-de-wegen",
     "type": "article",
@@ -167,7 +190,7 @@
     "title": "ProRail had last van sneeuw: 'Hard bezig met maatregelen voor woensdag'",
     "subtitle": null,
     "published_at": "2024-01-16T16:58:16+01:00",
-    "updated_at": "2024-01-16T17:27:51+01:00",
+    "updated_at": "2024-01-16T17:42:07+01:00",
     "media_id": "mihxobna300f",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6298028/omgevallen-boom-zorgt-voor-ravage-in-san-francisco.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298024,
-    "slug": "oprichter-lightyear-naar-achterbank-nieuwe-topvrouw-klimt-achter-het-stuur",
-    "type": "article",
-    "title": "Oprichter Lightyear naar achterbank, nieuwe topvrouw klimt achter het stuur",
-    "subtitle": null,
-    "published_at": "2024-01-16T14:33:14+01:00",
-    "updated_at": "2024-01-16T16:05:24+01:00",
-    "media_id": "lq7xl8oaza1i",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6298024/oprichter-lightyear-naar-achterbank-nieuwe-topvrouw-klimt-achter-het-stuur.html",
     "open_new_window": false,
     "partner": null
   }
