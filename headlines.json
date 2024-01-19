@@ -1,5 +1,28 @@
 [
   {
+    "id": 6298389,
+    "slug": "djokovic-wint-nu-wel-overtuigend-op-australian-open-sinner-en-tsitsipas-ook-door",
+    "type": "article",
+    "title": "Djokovic wint nu wél overtuigend op Australian Open, Sinner en Tsitsipás ook door",
+    "subtitle": null,
+    "published_at": "2024-01-19T11:46:02+01:00",
+    "updated_at": "2024-01-19T11:46:32+01:00",
+    "media_id": "cj6xas1ak6gi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6298389/djokovic-wint-nu-wel-overtuigend-op-australian-open-sinner-en-tsitsipas-ook-door.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298368,
     "slug": "heb-jij-wel-eens-bezwaar-gemaakt-tegen-te-hoge-huur",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Jeroen Pauw vervangt Khalid Kasem voorlopig in talkshow BNNVARA",
     "subtitle": null,
     "published_at": "2024-01-19T11:13:39+01:00",
-    "updated_at": "2024-01-19T11:29:19+01:00",
+    "updated_at": "2024-01-19T11:42:10+01:00",
     "media_id": "p6wxyw3a8z4b",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6298352/diepzeeontdekking-onthult-vier-nieuwe-octopussoorten-in-costa-rica.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298351,
-    "slug": "van-poppel-helpt-welsford-aan-fraai-verjaardagscadeau-in-tour-down-under",
-    "type": "article",
-    "title": "Van Poppel helpt Welsford aan fraai verjaardagscadeau in Tour Down Under",
-    "subtitle": null,
-    "published_at": "2024-01-19T07:27:51+01:00",
-    "updated_at": "2024-01-19T07:36:22+01:00",
-    "media_id": "ri9xnnkaoudi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6298351/van-poppel-helpt-welsford-aan-fraai-verjaardagscadeau-in-tour-down-under.html",
     "open_new_window": false,
     "partner": null
   }
