@@ -1,5 +1,28 @@
 [
   {
+    "id": 6304512,
+    "slug": "amerikaanse-republikeinse-partij-kiest-trumps-schoondochter-als-vicevoorzitter",
+    "type": "article",
+    "title": "Amerikaanse Republikeinse Partij kiest Trumps schoondochter als vicevoorzitter",
+    "subtitle": null,
+    "published_at": "2024-03-08T19:30:58+01:00",
+    "updated_at": "2024-03-08T19:30:59+01:00",
+    "media_id": "icuxs67aij1b",
+    "duration": null,
+    "canonical_section": {
+      "id": 1380734,
+      "slug": "verkiezingen-vs",
+      "type": "files",
+      "name": "Amerikaanse verkiezingen",
+      "style": "nu",
+      "media_id": "m1oxq8wabsoj",
+      "partner": null
+    },
+    "url": "/verkiezingen-vs/6304512/amerikaanse-republikeinse-partij-kiest-trumps-schoondochter-als-vicevoorzitter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304511,
     "slug": "kok-lijkt-ondanks-nieuwe-zege-op-500-meter-kansloos-voor-wereldtitel-sprint",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Verstappen verovert na hectische week poleposition voor GP Saoedi-Arabië",
     "subtitle": null,
     "published_at": "2024-03-08T19:06:43+01:00",
-    "updated_at": "2024-03-08T19:21:24+01:00",
+    "updated_at": "2024-03-08T19:28:44+01:00",
     "media_id": "afax6tpa8opb",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6304492/feyenoord-gaat-zich-versterken-met-transfervrije-twente-back-gijs-smal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304493,
-    "slug": "verschoor-boekt-bij-sprintrace-in-jeddah-eerste-formule-2-zege-van-seizoen",
-    "type": "article",
-    "title": "Verschoor boekt bij sprintrace in Jeddah eerste Formule 2-zege van seizoen",
-    "subtitle": null,
-    "published_at": "2024-03-08T17:06:12+01:00",
-    "updated_at": "2024-03-08T17:27:11+01:00",
-    "media_id": "xbnx3yaa9u2a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6304493/verschoor-boekt-bij-sprintrace-in-jeddah-eerste-formule-2-zege-van-seizoen.html",
     "open_new_window": false,
     "partner": null
   }
